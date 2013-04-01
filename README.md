@@ -22,6 +22,7 @@ You can modify those according to a new cocos2d project.
 
 
 Thanks preston's sharing.
+
 http://www.cocos2d-iphone.org/forum/topic/285094#post-444059
 
 
