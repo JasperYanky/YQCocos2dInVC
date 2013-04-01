@@ -1,6 +1,7 @@
 YQCocos2dInVC
 =============
 将coco2d工程加入到UIViewController中
+
 Using Cocos2d inside a CCGLView that is  a Subview of the UIViewController's View
 
 
